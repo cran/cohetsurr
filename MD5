@@ -1,0 +1,12 @@
+567639980f9d34d6b324ce56d634384a *DESCRIPTION
+d44f7da269f3fac03eadc291ec5f202d *NAMESPACE
+267b3f80bb4e0b429504e9a66f14abef *R/boot.var.R
+3bc928fe56fecaf31cdf48949c2140ab *R/complex.heterogeneity.R
+555f8a8eeb4f95298aff4541580a00bf *R/parametric.est.R
+d1571060e0a48916093a5cbca376b637 *R/two.step.est.R
+13a0351f85774c9bc4ffb8bd9437f514 *data/exampledata.RData
+1c3d1f1ad493979c129f083fa53ab86a *man/boot.var.Rd
+087af8d258df3fffd5fd262d1574cb77 *man/complex.heterogeneity.Rd
+48f638ef813ce2e742c693850c31672f *man/exampledata.Rd
+19eb3b612355c4c17ce97d54e6e50d3f *man/parametric.est.Rd
+a0106a3499b0ee1ca9f9af63e4d480dd *man/two.step.est.Rd
